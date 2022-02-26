@@ -1,0 +1,27 @@
+{
+    "Token": "token here",
+    "Prefix": "!",
+    "guild": 842390472843722753,
+    "fnio": "33c46285-83dd8d12-e27ceed7-ff1e5e73",
+
+
+    "embedcolor" : "0xfff000" ,
+    "embederror" : "0xE72A2A",
+    "embedsuccess" : "0x1df221",
+    "test"  :"True",
+
+    
+    "Max_Search_Results": 3,
+    "Response lang": "fr",
+    "Search lang": "fr",
+    "bot_lang": "fr",
+
+    
+    "channelaes": 938049213521076264,
+    "channelnews": 938050104093458432,
+    "channelweapons": 944712156623032430,
+    "channelhello": 938886670441386045,
+    "channelshop": 938055202899116043,
+    "channelporn": 939547205419827280
+
+}
