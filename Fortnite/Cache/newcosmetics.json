@@ -1,0 +1,1275 @@
+{
+  "previousVersion": "++Fortnite+Release-19.20-CL-18775446-Windows",
+  "currentVersion": "++Fortnite+Release-19.30-CL-19027703-Windows",
+  "items": [
+    {
+      "id": "SPID_358_Trey_13D84",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_358_Trey_13D84",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/SPID_358_Trey_13D84/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Bus \u00e0 panier",
+      "description": "Laissez votre empreinte.",
+      "shortDescription": "A\u00e9rosol",
+      "backendType": "AthenaSpray",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Spray",
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Sauteuse NBA 75",
+      "description": "La gravit\u00e9\u00a0? Une simple suggestion.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_345_Athena_Commando_M_TreyCozy_B_4EP38",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_345_Athena_Commando_M_TreyCozy_B_4EP38",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_345_Athena_Commando_M_TreyCozy_B_4EP38/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Fonceur NBA 75",
+      "description": "La d\u00e9fense n'a qu'\u00e0 bien se tenir.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_345_Athena_Commando_M_TreyCozy_B_4EP38/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_345_Athena_Commando_M_TreyCozy_B_4EP38/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_345_Athena_Commando_M_TreyCozy_B_4EP38/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Flexeuse NBA 75",
+      "description": "Gardez le ballon avec style.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Slammeuse NBA 75",
+      "description": "Forcez-les \u00e0 arracher chaque point.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_348_Athena_Commando_M_TreyCozy_E_VH8P6",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_348_Athena_Commando_M_TreyCozy_E_VH8P6",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_348_Athena_Commando_M_TreyCozy_E_VH8P6/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Dribbleur NBA 75",
+      "description": "Glissez-vous entre les adversaires.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_348_Athena_Commando_M_TreyCozy_E_VH8P6/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_348_Athena_Commando_M_TreyCozy_E_VH8P6/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_348_Athena_Commando_M_TreyCozy_E_VH8P6/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Battante NBA 75",
+      "description": "C'est votre ar\u00e8ne.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_346_Athena_Commando_M_TreyCozy_C_7P9HU",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_346_Athena_Commando_M_TreyCozy_C_7P9HU",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_346_Athena_Commando_M_TreyCozy_C_7P9HU/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Dunkeur NBA 75",
+      "description": "Jamais sur le banc de touche.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_346_Athena_Commando_M_TreyCozy_C_7P9HU/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_346_Athena_Commando_M_TreyCozy_C_7P9HU/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_346_Athena_Commando_M_TreyCozy_C_7P9HU/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Marqueuse NBA 75",
+      "description": "Traversez le terrain comme dans du beurre.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_344_Athena_Commando_M_TreyCozy_6ZK7H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_344_Athena_Commando_M_TreyCozy_6ZK7H",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_344_Athena_Commando_M_TreyCozy_6ZK7H/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Batailleur NBA 75",
+      "description": "Un MVP en herbe.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_344_Athena_Commando_M_TreyCozy_6ZK7H/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_344_Athena_Commando_M_TreyCozy_6ZK7H/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_344_Athena_Commando_M_TreyCozy_6ZK7H/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "CID_A_347_Athena_Commando_M_TreyCozy_D_OKJU9",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_347_Athena_Commando_M_TreyCozy_D_OKJU9",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_347_Athena_Commando_M_TreyCozy_D_OKJU9/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Capitaine NBA 75",
+      "description": "Contr\u00f4lez le terrain.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "couleur",
+          "options": [
+            {
+              "tag": "Mat3",
+              "name": "Blanc",
+              "image": "https://benbot.app/cdn/images/CID_A_347_Athena_Commando_M_TreyCozy_D_OKJU9/variant/Material/Mat3.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat1",
+              "name": "Gris",
+              "image": "https://benbot.app/cdn/images/CID_A_347_Athena_Commando_M_TreyCozy_D_OKJU9/variant/Material/Mat1.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Mat2",
+              "name": "Rouge",
+              "image": "https://benbot.app/cdn/images/CID_A_347_Athena_Commando_M_TreyCozy_D_OKJU9/variant/Material/Mat2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "SoundLibrary.ID.StepType.ShoesSneakers",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "BID_955_Trey_18FU6",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_955_Trey_18FU6",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Flambeau de la NBA",
+      "description": "Repr\u00e9sentez les meilleurs.",
+      "shortDescription": "Accessoire de dos",
+      "backendType": "AthenaBackpack",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": "NBA 75",
+      "setText": "Fait partie de l'ensemble NBA 75.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Material",
+          "type": "\u00e9quipe",
+          "options": [
+            {
+              "tag": "001",
+              "name": "Philadelphia 76ers",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/001.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "002",
+              "name": "Milwaukee bucks",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/002.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "003",
+              "name": "Chicago bulls",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/003.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "004",
+              "name": "Cleveland cavaliers",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/004.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "005",
+              "name": "Boston celtics",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/005.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "006",
+              "name": "L.a. clippers",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/006.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "007",
+              "name": "Memphis grizzlies",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/007.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "008",
+              "name": "atlanta hawks",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/008.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "009",
+              "name": "Miami heat",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/009.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "010",
+              "name": "Charlotte hornets",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/010.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "011",
+              "name": "Utah jazz",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/011.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "012",
+              "name": "Sacramento kings",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/012.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "013",
+              "name": "New York knicks",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/013.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "014",
+              "name": "Los Angeles lakers",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/014.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "015",
+              "name": "Orlando magic",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/015.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "016",
+              "name": "Dallas marvericks",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/016.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "017",
+              "name": "Brooklyn nets",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/017.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "018",
+              "name": "Denver nuggets",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/018.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "019",
+              "name": "Indiana pacers",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/019.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "020",
+              "name": "New Orleans pelicans",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/020.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "021",
+              "name": "Detroit pistons",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/021.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "022",
+              "name": "Toronto raptors",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/022.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "023",
+              "name": "Houston rockets",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/023.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "024",
+              "name": "San Antonio spurs",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/024.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "025",
+              "name": "Phoenix suns",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/025.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "026",
+              "name": "Oklahoma thunder",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/026.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "027",
+              "name": "Minnesota timberwolves",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/027.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "028",
+              "name": "Portland trail blazers",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/028.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "029",
+              "name": "Golden state warriors",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/029.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "030",
+              "name": "Washington wizards",
+              "image": "https://benbot.app/cdn/images/BID_955_Trey_18FU6/variant/Material/030.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Set.PolitePlatform"
+      ]
+    },
+    {
+      "id": "EID_Rover_98BFX",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Rover_98BFX",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/EID_Rover_98BFX/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Ajout dans le carnet",
+      "description": "Je vais le noter, au cas o\u00f9...",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": "Uncharted",
+      "setText": "Fait partie de l'ensemble Uncharted.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.Set.FearCircle"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_751_RoverFemale_44TG1",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_751_RoverFemale_44TG1",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/Pickaxe_ID_751_RoverFemale_44TG1/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Hache de Parashurama",
+      "description": "Attention, elle est plus aiguis\u00e9e qu'elle en a l'air.",
+      "shortDescription": "Outil de collecte",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": "Uncharted",
+      "setText": "Fait partie de l'ensemble Uncharted.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.FearCircle"
+      ]
+    },
+    {
+      "id": "Pickaxe_ID_752_RoverMale_I98VZ",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_752_RoverMale_I98VZ",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/Pickaxe_ID_752_RoverMale_I98VZ/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Sabre usag\u00e9",
+      "description": "Si la lame ne suffit pas \u00e0 achever votre adversaire, le t\u00e9tanos s'en chargera.",
+      "shortDescription": "Outil de collecte",
+      "backendType": "AthenaPickaxe",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": "Uncharted",
+      "setText": "Fait partie de l'ensemble Uncharted.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Pickaxe.OneHanded",
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.FearCircle"
+      ]
+    },
+    {
+      "id": "BID_954_Rover_0FV73",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_954_Rover_0FV73",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/BID_954_Rover_0FV73/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Sacoche de Chloe",
+      "description": "Qui sait combien de larcins elle a bien pu cacher l\u00e0-dedans\u00a0?",
+      "shortDescription": "Accessoire de dos",
+      "backendType": "AthenaBackpack",
+      "rarity": "\u00c9pique",
+      "backendRarity": "EFortRarity::Epic",
+      "set": "Uncharted",
+      "setText": "Fait partie de l'ensemble Uncharted.",
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.Set.FearCircle"
+      ]
+    },
+    {
+      "id": "CID_A_343_Athena_Commando_F_Rover_KR41G",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_343_Athena_Commando_F_Rover_KR41G",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_343_Athena_Commando_F_Rover_KR41G/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Chloe Frazer",
+      "description": "Vous avez int\u00e9r\u00eat \u00e0 surveiller vos arri\u00e8res en pr\u00e9sence de cette voleuse professionnelle.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "\u00c9pique",
+      "backendRarity": "EFortRarity::Epic",
+      "set": "Uncharted",
+      "setText": "Fait partie de l'ensemble Uncharted.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Parts",
+          "type": "STYLE",
+          "options": [
+            {
+              "tag": "Stage1",
+              "name": "Chloe Frazer",
+              "image": "https://benbot.app/cdn/images/CID_A_343_Athena_Commando_F_Rover_KR41G/variant/Parts/Stage1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Stage2",
+              "name": "Chloe Frazer (sans veste)",
+              "image": "https://benbot.app/cdn/images/CID_A_343_Athena_Commando_F_Rover_KR41G/variant/Parts/Stage2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Stage3",
+              "name": "Chloe Frazer (UNCHARTED: The Lost Legacy)",
+              "image": "https://benbot.app/cdn/images/CID_A_343_Athena_Commando_F_Rover_KR41G/variant/Parts/Stage3.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.Source.ItemShop",
+        "SoundLibrary.ID.StepType.BootsCombat",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.FearCircle"
+      ]
+    },
+    {
+      "id": "CID_A_342_Athena_Commando_M_Rover_WKA61",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_342_Athena_Commando_M_Rover_WKA61",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/CID_A_342_Athena_Commando_M_Rover_WKA61/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Nathan Drake",
+      "description": "Un aventurier hors pair qui d\u00e9niche les tr\u00e9sors aussi vite qu'il se fourre dans le p\u00e9trin.",
+      "shortDescription": "Tenue",
+      "backendType": "AthenaCharacter",
+      "rarity": "\u00c9pique",
+      "backendRarity": "EFortRarity::Epic",
+      "set": "Uncharted",
+      "setText": "Fait partie de l'ensemble Uncharted.",
+      "series": null,
+      "variants": [
+        {
+          "channel": "Parts",
+          "type": "STYLE",
+          "options": [
+            {
+              "tag": "Stage1",
+              "name": "Nathan Drake",
+              "image": "https://benbot.app/cdn/images/CID_A_342_Athena_Commando_M_Rover_WKA61/variant/Parts/Stage1.png",
+              "startUnlocked": true,
+              "isDefault": true,
+              "hideIfNotOwned": false
+            },
+            {
+              "tag": "Stage2",
+              "name": "Nathan Drake (UNCHARTED 4: A Thief's End)",
+              "image": "https://benbot.app/cdn/images/CID_A_342_Athena_Commando_M_Rover_WKA61/variant/Parts/Stage2.png",
+              "startUnlocked": true,
+              "isDefault": false,
+              "hideIfNotOwned": false
+            }
+          ]
+        }
+      ],
+      "gameplayTags": [
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Source.ItemShop",
+        "SoundLibrary.ID.StepType.BootsCombat",
+        "SoundLibrary.ID.ClothingType.Generic",
+        "SoundLibrary.ID.HandType.Bare",
+        "Cosmetics.Set.FearCircle"
+      ]
+    },
+    {
+      "id": "EID_BeHere_8070H",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BeHere_8070H",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/EID_BeHere_8070H/icon.png",
+        "featured": null,
+        "series": "https://benbot.app/cdn/series/CreatorCollabSeries.png"
+      },
+      "name": "D\u00e9gage",
+      "description": "Trop de maquillage.",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Rare",
+      "backendRarity": "EFortRarity::Rare",
+      "set": null,
+      "setText": null,
+      "series": {
+        "name": "S\u00e9rie Ic\u00f4nes",
+        "colors": {
+          "Color1": {
+            "r": 92,
+            "g": 242,
+            "b": 243,
+            "a": 255
+          },
+          "Color2": {
+            "r": 43,
+            "g": 201,
+            "b": 202,
+            "a": 255
+          },
+          "Color3": {
+            "r": 0,
+            "g": 76,
+            "b": 113,
+            "a": 255
+          },
+          "Color4": {
+            "r": 2,
+            "g": 82,
+            "b": 83,
+            "a": 255
+          },
+          "Color5": {
+            "r": 0,
+            "g": 15,
+            "b": 43,
+            "a": 255
+          }
+        }
+      },
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.19"
+      ]
+    },
+    {
+      "id": "EID_Bargain_Sync_Follower",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Bargain_Sync_Follower",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/EID_Bargain_Sync_Follower/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": null,
+      "description": null,
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "EID_Bargain_Owned_Follower",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Bargain_Owned_Follower",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/EID_Bargain_Owned_Follower/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": null,
+      "description": null,
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "EID_Bargain_Y5KHN",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Bargain_Y5KHN",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/EID_Bargain_Y5KHN/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": "Accord commercial",
+      "description": "Un plaisir de faire affaire.",
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.19",
+        "Cosmetics.UserFacingFlags.Synced"
+      ]
+    },
+    {
+      "id": "EID_Bargain_Owned",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Bargain_Owned",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/EID_Bargain_Owned/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": null,
+      "description": null,
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop"
+      ]
+    },
+    {
+      "id": "EID_Bargain_Sync",
+      "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Bargain_Sync",
+      "icons": {
+        "icon": "https://benbot.app/cdn/images/EID_Bargain_Sync/icon.png",
+        "featured": null,
+        "series": null
+      },
+      "name": null,
+      "description": null,
+      "shortDescription": "Emote",
+      "backendType": "AthenaDance",
+      "rarity": "Atypique",
+      "backendRarity": "EFortRarity::Uncommon",
+      "set": null,
+      "setText": null,
+      "series": null,
+      "variants": null,
+      "gameplayTags": [
+        "Cosmetics.EmoteType.Dance",
+        "Cosmetics.Source.ItemShop"
+      ]
+    }
+  ]
+}
